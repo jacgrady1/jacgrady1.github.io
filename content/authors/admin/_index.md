@@ -1,7 +1,7 @@
 ---
 title: Yujie Zheng
 role: Post Doctoral Scholar at Caltech
-avatar_filename: zheng_y.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Ph.D at Stanford University
     url: ""
