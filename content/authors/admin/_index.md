@@ -8,9 +8,11 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: "my research interest is in geo science. "
+bio: Geodesy, Crustal Deformation, Signal Processing
 interests:
-  - GeoScience InSar
+  - Geodesy
+  - Crustal Deformation
+  - Signal Processing
 social:
   - icon: envelope
     icon_pack: fas
