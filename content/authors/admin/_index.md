@@ -1,7 +1,7 @@
 ---
 title: Yujie Zheng
 role: Postdoc at Caltech
-avatar_filename: avatar.jpg
+avatar_filename: zheng_y.jpg
 organizations:
   - name: Stanford University
     url: ""
@@ -10,9 +10,7 @@ authors:
   - admin
 bio: "my research interest is in geo science. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GeoScience InSar
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,18 +26,17 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Earth Science
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
+    - course: BSc in Earth Science
+      institution: Peking Univesity
+      year: 2015
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-Yujie Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+"Yujie is a cold blooded yet pretty science machine"
+
+\---said Gongxun
