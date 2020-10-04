@@ -37,6 +37,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-"Yujie is a cold blooded yet pretty science machine"
+"Yujie is a cold-blooded yet BEAUTIFUL science machine"
 
 \---said Gongxun
