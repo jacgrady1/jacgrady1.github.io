@@ -1,9 +1,9 @@
 ---
 title: Yujie Zheng
-role: Postdoc at Caltech
+role: Post Doctoral Scholar in GeoPhysics at Caltech
 avatar_filename: zheng_y.jpg
 organizations:
-  - name: Stanford University
+  - name: Ph.D in GeoPhysics at Stanford University
     url: ""
 superuser: true
 authors:
