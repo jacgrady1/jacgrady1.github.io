@@ -39,6 +39,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-"Yujie is a cold-blooded science machine! And she is so pretty!!!"
-
-\- - - said Gongxun
+I am a Postdoctoral Scholar in Division of Geological and Planetary Sciences at Caltech.
