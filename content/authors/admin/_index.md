@@ -3,9 +3,7 @@ title: Yujie Zheng
 role: Post Doctoral Scholar at Caltech
 avatar_filename: zheng_y.jpg
 organizations:
-  - name: Ph.D at Stanford University
-    url: ""
-  - name: Postdoc at Caltech
+  - name: Post Doctoral Scholar at Caltech
 superuser: true
 authors:
   - admin
@@ -23,7 +21,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/zheng_yujie
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=T4j9T94AAAAJ&hl=en
   - icon: github
     icon_pack: fab
