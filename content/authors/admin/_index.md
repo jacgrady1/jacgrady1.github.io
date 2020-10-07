@@ -5,6 +5,7 @@ avatar_filename: zheng_y.jpg
 organizations:
   - name: Ph.D at Stanford University
     url: ""
+  - name: Postdoc at Caltech
 superuser: true
 authors:
   - admin
@@ -35,7 +36,7 @@ education:
     - course: BSc in Geophysics
       institution: Peking University, China
       year: 2014
-email: ""
+email: yjzheng@caltech.edu
 user_groups:
   - Researchers
   - Visitors
