@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/yjzhenglamarmota
   - link: https://scholar.google.de/citations?hl=en&user=T4j9T94AAAAJ
-    icon_pack: ai
+    icon_pack: fab
     icon: google scholar
 education:
   courses:
