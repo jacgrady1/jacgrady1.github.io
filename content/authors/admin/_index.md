@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Geophysics
       institution: Stanford University
-      year: 2020
+      year: 2019
     - course: BSc in Geophysics
       institution: Peking University, China
       year: 2014
