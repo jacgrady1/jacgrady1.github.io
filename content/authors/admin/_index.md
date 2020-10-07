@@ -2,8 +2,7 @@
 title: Yujie Zheng
 role: Post Doctoral Scholar at Caltech
 avatar_filename: zheng_y.jpg
-organizations:
-  - name: Post Doctoral Scholar at Caltech
+organizations: []
 superuser: true
 authors:
   - admin
