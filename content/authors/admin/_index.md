@@ -17,7 +17,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/zheng_yujie
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: far
     link: https://scholar.google.de/citations?hl=en&user=T4j9T94AAAAJ
   - icon: github
     icon_pack: fab
@@ -35,4 +35,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Welcome! I am a Postdoctoral Scholar in the Division of Geological and Planetary Sciences at Caltech.  My primary research interests involve using remote sensing techniques to investigate the Earth, whose surface is constantly changing. In my research, I combine Interferometric Synthetic Aperture Radar (InSAR), a remote sensing technique with geophysical modeling to study the dynamic behavior of the Earth's surface.
+I am a Postdoctoral Scholar in the Division of Geological and Planetary Sciences at Caltech.  My primary research interests involve using remote sensing techniques to investigate the Earth, whose surface is constantly changing. In my research, I combine Interferometric Synthetic Aperture Radar (InSAR), a remote sensing technique with geophysical modeling to study the dynamic behavior of the Earth's surface.
