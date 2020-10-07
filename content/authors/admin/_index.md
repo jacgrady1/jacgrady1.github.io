@@ -8,7 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: Geodesy, Crustal Deformation, Signal Processing
+bio: Geodesy, Crustal Deformation, Radar Interferometry, Geophysical Inverse
+  Problems
 interests:
   - Geodesy
   - Crustal Deformation
@@ -39,4 +40,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Postdoctoral Scholar in Division of Geological and Planetary Sciences at Caltech.
+Welcome! I am a Postdoctoral Scholar in the Division of Geological and Planetary Sciences at Caltech.  My primary research interests involve using remote sensing techniques to investigate the Earth, whose surface is constantly changing. In my research, I combine Interferometric Synthetic Aperture Radar (InSAR), a remote sensing technique with geophysical modeling to study the dynamic behavior of the Earth's surface.
