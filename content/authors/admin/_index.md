@@ -28,12 +28,12 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Earth Science
+    - course: PhD in Geophysics
       institution: Stanford University
       year: 2020
-    - course: BSc in Earth Science
-      institution: Peking Univesity
-      year: 2015
+    - course: BSc in Geophysics
+      institution: Peking University, China
+      year: 2014
 email: ""
 user_groups:
   - Researchers
