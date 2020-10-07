@@ -16,8 +16,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/zheng_yujie
-  - icon: google-scholar
-    icon_pack: far
+  - icon: github
+    icon_pack: fab
     link: https://scholar.google.de/citations?hl=en&user=T4j9T94AAAAJ
   - icon: github
     icon_pack: fab
