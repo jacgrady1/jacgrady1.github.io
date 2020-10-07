@@ -13,7 +13,7 @@ bio: Geodesy, Crustal Deformation, Radar Interferometry, Geophysical Inverse
 interests:
   - Geodesy
   - Crustal Deformation
-  - Signal Processing
+  - InSAR
 social:
   - icon: envelope
     icon_pack: fas
